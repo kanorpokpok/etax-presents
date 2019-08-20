@@ -1,0 +1,2 @@
+<<<<<<<<<< Publish Dotnet Core >>>>>>>>>>>>>>>>>>>>>>>
+dotnet publish -c Release -o D:\Gitlab\Publish\publish.cwn.etax.provider.webapplication.webapp\publish
